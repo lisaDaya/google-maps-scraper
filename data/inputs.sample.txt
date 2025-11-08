@@ -1,0 +1,3 @@
+# Sample input file for Google Maps scraper
+Location: New York
+Max Results: 5000
