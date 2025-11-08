@@ -1,0 +1,5 @@
+{
+    "location": "New York",
+    "max_results": 5000,
+    "output_format": "json"
+}
